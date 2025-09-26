@@ -5,7 +5,7 @@ This is a project with guided instructions from freeCodeCamp
 This is a hands-on project with a focus on DOM manipulation and event handling.
 
 ## 🔗 Live Demo
-You can view the live version of the project here: 👉 https://matteocolombo-dev.github.io/Real-time-Character-Counter-/[https://matteocolombo-dev.github.io/Real-time-Character-Counter-/]
+You can view the live version of the project here: 👉 [https://matteocolombo-dev.github.io/Real-time-Character-Counter-/](https://matteocolombo-dev.github.io/Real-time-Character-Counter-/)
 
 ## Stack 
 - HTML5
